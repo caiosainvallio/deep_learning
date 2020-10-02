@@ -1,1 +1,1 @@
-# Estudos em Redes Neurais e Deep Learning em Python
+# Estudos de Redes Neurais e Deep Learning em Python
